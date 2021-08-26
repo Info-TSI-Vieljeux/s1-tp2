@@ -1,1 +1,2 @@
-# TP 2 du premier semestre
+# TP 2
+ 8 pts
